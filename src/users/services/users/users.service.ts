@@ -8,7 +8,6 @@ import {
   CreateUserPostParams,
   UpdateUserParams,
 } from 'src/users/utils/type';
-import { CreateUserProfileDto } from 'src/users/dtos/CreateUserProfile.dto';
 import { Profile } from 'src/typeorm/entities/Profile';
 import { PostUser } from 'src/typeorm/entities/Post';
 
